@@ -1,4 +1,4 @@
-##Name: Laksh Goyal
+## ame: Laksh Goyal
 
 1) Within a github action that runs whenever code is pushed - Running tests on every push catches regressions immediately, before the bad code merges. Whereas in option 2,manually running them is more work and option 3 is the worst of them all.
 
