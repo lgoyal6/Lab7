@@ -13,5 +13,8 @@
   "jest": {
     "preset": "jest-puppeteer",
     "verbose": true
+  },
+  "resolutions": {
+    "jest-runtime": "29.7.0"
   }
 }
